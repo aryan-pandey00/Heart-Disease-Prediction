@@ -1,3 +1,5 @@
+![Heart Disease Prediction](banner.png)
+
 # Heart Disease Prediction using Machine Learning
 
 This project predicts the likelihood of heart disease using machine learning techniques on clinical patient data.  
@@ -21,5 +23,7 @@ A Logistic Regression model is used to provide probability-based predictions for
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
 2. Open the notebook:
+   ```bash
    jupyter notebook heart_disease_prediction.ipynb
